@@ -1,8 +1,7 @@
 # Logistics Order Form & Live Preview
 
 ## Live Demo
-logistic-form.vercel.app
-
+https://logistic-form.vercel.app/
 ##  GitHub Repo
 https://github.com/Akshit-Srivastava1/logistic-form
 
