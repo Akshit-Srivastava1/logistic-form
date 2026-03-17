@@ -1,0 +1,19 @@
+.card {
+  background: #f9fafb;
+  border: 1px solid #e5e7eb;
+  padding: 12px;
+  border-radius: 10px;
+  margin-bottom: 12px;
+}
+
+.card input {
+  margin-bottom: 8px;
+}
+
+.card button {
+  background: #ef4444;
+}
+
+.card button:hover {
+  background: #dc2626;
+}
