@@ -22,5 +22,5 @@
 Clean two-column layout with live preview.
 
 ##  Run Locally
-npm install
-npm run dev
+- npm install 
+- npm run dev
