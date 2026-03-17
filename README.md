@@ -1,10 +1,13 @@
 # Logistics Order Form & Live Preview
 
 ## Live Demo
-(Add your Vercel link here)
+logistic-form.vercel.app
 
 ##  GitHub Repo
-(https://github.com/Akshit-Srivastava1/logistic-form
+https://github.com/Akshit-Srivastava1/logistic-form
+
+## Figma Link
+https://www.figma.com/design/Bpb3GpqPhKRaAgdKd0mebf/Untitled?node-id=0-1&t=SToAp8Mj0084ZHLc-1
 
 ##  Features
 - Create shipment orders
